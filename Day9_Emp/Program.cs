@@ -1,5 +1,4 @@
 ﻿Console.WriteLine("Welcome to Employee Wage Computation Program");
-
 int empAbsent = 0;
 int empPresent = 1;
 int empPartTime = 2;
@@ -9,24 +8,21 @@ int empSalary = 50;
 
 Random num = new Random();
 int attendance = num.Next(0, 3);
-if (attendance == empPresent)
-{
-    Console.WriteLine("Is Present");
-    empWrkHrs = 8;
-    empSalary = 50;
-}
 
-else if (attendance == empAbsent)
+switch (attendance)
 {
-    Console.WriteLine("Is Absent");
-    empWrkHrs = 0;
-    empSalary = 0;
-}
-else
-{
-    Console.WriteLine("Is PartTime");
-    empWrkHrs = 4;
-    empSalary = 50;
+    case 0:
+        Console.WriteLine("Is Absent");
+        empWrkHrs = 0;
+        break;
+    case 1:
+        Console.WriteLine("Is Present");
+        empWrkHrs = 8;
+        break;
+    case 2:
+        Console.WriteLine("Is PartTime");
+        empWrkHrs = 4;
+        break;
 }
 
 int empWage = (empWrkHrs * empSalary);
