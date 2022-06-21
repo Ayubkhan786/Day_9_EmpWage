@@ -1,0 +1,15 @@
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\bin\Debug\net6.0\Day9_Emp.exe
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\bin\Debug\net6.0\Day9_Emp.deps.json
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\bin\Debug\net6.0\Day9_Emp.runtimeconfig.json
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\bin\Debug\net6.0\Day9_Emp.dll
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\bin\Debug\net6.0\Day9_Emp.pdb
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\Day9_Emp.csproj.AssemblyReference.cache
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\Day9_Emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\Day9_Emp.AssemblyInfoInputs.cache
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\Day9_Emp.AssemblyInfo.cs
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\Day9_Emp.csproj.CoreCompileInputs.cache
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\Day9_Emp.dll
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\refint\Day9_Emp.dll
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\Day9_Emp.pdb
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\Day9_Emp.genruntimeconfig.cache
+C:\Users\Ayub\source\repos\Day9_Emp\Day9_Emp\obj\Debug\net6.0\ref\Day9_Emp.dll

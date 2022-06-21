@@ -1,15 +1,11 @@
-﻿public class Salary
+﻿public class Companies_Salary
 {
     public const int empAbsent = 0;
     public const int empPresent = 1;
     public const int empPartTime = 2;
 
-    public const int empSalary = 20;
-    public const int MAX_DAYS = 20;
-    public const int MAX_HRS = 100;
-    //Console.WriteLine("Welcome to Employee Wage Computation Program");
-
-    public void EmployeeWage()
+    //Using Class Method with function parameters instead of Class Variables
+    public void EmployeeWage(string Companyname, int empSalary, int MAX_DAYS, int MAX_HRS)
     {
 
 
@@ -48,11 +44,12 @@
         }
 
         int monthlyWage = (empWrkHrs * MAX_DAYS * empSalary);
-        Console.WriteLine("The Monthly salary is :" + monthlyWage);
+        Console.WriteLine("The Monthly salary for "+ Companyname + " " + "is :" + monthlyWage);
     }
     static void Main(String[] args)
     {
-        Salary salary = new Salary();
-        salary.EmployeeWage();
+        Companies_Salary salary = new Companies_Salary();
+        salary.EmployeeWage("TCS",30,28,56);
+        salary.EmployeeWage("CTS",40,30, 70);
     }
 }
